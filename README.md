@@ -1,2 +1,3 @@
-# Game Design Projects
-Projects completed while enrolled at UCF.
+# The Cask of Amontillado
+A text based game featuring the story of the Cask of Amontillado by Edgar Allan Poe.
+Created using inky.
